@@ -1,0 +1,227 @@
+[
+  {
+    "plvr": "gato",
+    "tema": "animal",
+    "dica": "ele tem 4 patas, e o rugido dele começa com m 😉"
+  },
+  {
+  "plvr": "sol",
+  "tema": "astronomia",
+  "dica": "estrela que é o centro do nosso sistema solar."
+},
+{
+  "plvr": "piano",
+  "tema": "instrumento musical",
+  "dica": "possui teclas e é tocado com as mãos."
+},
+{
+  "plvr": "satélite",
+  "tema": "espaço",
+  "dica": "objeto que orbita em torno de um planeta ou corpo celeste."
+},
+{
+  "plvr": "floresta",
+  "tema": "natureza",
+  "dica": "ecossistema composto principalmente por árvores e vegetação."
+},
+{
+  "plvr": "software",
+  "tema": "tecnologia",
+  "dica": "conjunto de instruções que permite o funcionamento de um computador."
+},
+{
+  "plvr": "cachorro",
+  "tema": "animal",
+  "dica": "amigo leal do ser humano, conhecido como o melhor amigo do homem."
+},
+{
+  "plvr": "galáxia",
+  "tema": "astronomia",
+  "dica": "grande sistema formado por estrelas, planetas, gás e poeira cósmica."
+},
+{
+  "plvr": "violão",
+  "tema": "instrumento musical",
+  "dica": "possui seis cordas e é tocado com os dedos ou palheta."
+},
+{
+  "plvr": "telescópio",
+  "tema": "ciência",
+  "dica": "instrumento óptico que permite observar objetos distantes no espaço."
+},
+{
+  "plvr": "oceano",
+  "tema": "geografia",
+  "dica": "extensa massa de água salgada que cobre grande parte da superfície terrestre."
+},
+{
+  "plvr": "programação",
+  "tema": "tecnologia",
+  "dica": "processo de criar e desenvolver algoritmos para realizar tarefas computacionais."
+},
+{
+  "plvr": "leão",
+  "tema": "animal",
+  "dica": "majestoso felino conhecido por sua juba e por ser o rei da selva."
+},
+{
+  "plvr": "avião",
+  "tema": "meios de transporte",
+  "dica": "veículo mais pesado que o ar, capaz de voar através de asas fixas."
+},
+{
+  "plvr": "montanha",
+  "tema": "geografia",
+  "dica": "formação geológica elevada, comumente associada a picos e elevações."
+},
+{
+  "plvr": "microscópio",
+  "tema": "ciência",
+  "dica": "instrumento que amplia objetos pequenos para observação detalhada."
+},
+{
+  "plvr": "sistema solar",
+  "tema": "astronomia",
+  "dica": "conjunto de planetas, luas, cometas e outros corpos que orbitam uma estrela."
+},
+{
+  "plvr": "saxofone",
+  "tema": "instrumento musical",
+  "dica": "instrumento de sopro da família dos metais, com som distintivo."
+},
+{
+  "plvr": "astronauta",
+  "tema": "espaço",
+  "dica": "pessoa treinada para viajar e realizar tarefas no espaço sideral."
+},
+{
+  "plvr": "praia",
+  "tema": "geografia",
+  "dica": "faixa de areia à beira-mar, frequentemente visitada para lazer."
+},
+{
+  "plvr": "smartphone",
+  "tema": "tecnologia",
+  "dica": "dispositivo móvel com funcionalidades avançadas, incluindo comunicação e internet."
+},
+{
+  "plvr": "elefante",
+  "tema": "animal",
+  "dica": "maior mamífero terrestre, conhecido por suas grandes presas."
+},
+{
+  "plvr": "esmeralda",
+  "tema": "mineral",
+  "dica": "pedra preciosa verde, muitas vezes associada à realeza."
+},
+{
+  "plvr": "robot",
+  "tema": "tecnologia",
+  "dica": "máquina programada para realizar tarefas automaticamente, muitas vezes em forma humana."
+},
+{
+  "plvr": "câmera",
+  "tema": "tecnologia",
+  "dica": "dispositivo utilizado para capturar imagens ou gravar vídeos."
+},
+{
+  "plvr": "borboleta",
+  "tema": "inseto",
+  "dica": "inseto colorido, frequentemente associado a transformações e metamorfoses."
+},
+{
+  "plvr": "história",
+  "tema": "ciências sociais",
+  "dica": "registro e estudo dos eventos passados que moldaram a humanidade."
+},
+{
+  "plvr": "medicina",
+  "tema": "ciência",
+  "dica": "prática e estudo da prevenção, diagnóstico e tratamento de doenças."
+},
+{
+  "plvr": "girafa",
+  "tema": "animal",
+  "dica": "mamífero de pescoço longo, conhecido por sua altura impressionante."
+},
+{
+  "plvr": "dinossauro",
+  "tema": "paleontologia",
+  "dica": "criatura extinta que habitou a Terra há milhões de anos."
+},
+{
+  "plvr": "energia solar",
+  "tema": "energia renovável",
+  "dica": "obtida do sol e convertida em eletricidade ou calor para uso humano."
+},
+{
+  "plvr": "ópera",
+  "tema": "música",
+  "dica": "forma de arte lírica teatral que combina música e drama."
+},
+{
+  "plvr": "deserto",
+  "tema": "geografia",
+  "dica": "área extensa com pouca precipitação de chuva e escassa vegetação."
+},
+{
+  "plvr": "química",
+  "tema": "ciência",
+  "dica": "estudo das substâncias, suas propriedades e transformações."
+},
+{
+  "plvr": "baleia",
+  "tema": "animal marinho",
+  "dica": "mamífero marinho gigante, conhecido por suas dimensões impressionantes."
+},
+{
+  "plvr": "quantum",
+  "tema": "física quântica",
+  "dica": "unidade mínima de qualquer entidade física envolvida em interações."
+},
+{
+  "plvr": "criptografia",
+  "tema": "segurança da informação",
+  "dica": "técnica de codificar informações para proteger sua confidencialidade."
+},
+{
+  "plvr": "paradoxo",
+  "tema": "filosofia",
+  "dica": "afirmação aparentemente autocontraditória, mas que pode ter um significado verdadeiro."
+},
+{
+  "plvr": "singularity",
+  "tema": "inteligência artificial",
+  "dica": "momento hipotético em que a tecnologia ultrapassa a inteligência humana."
+},
+{
+  "plvr": "heurística",
+  "tema": "ciência da computação",
+  "dica": "método de resolução de problemas baseado na experiência prática."
+},
+{
+  "plvr": "quasar",
+  "tema": "astronomia",
+  "dica": "objeto astronômico extremamente luminoso e distante, alimentado por um buraco negro supermassivo."
+},
+{
+  "plvr": "neutrino",
+  "tema": "física de partículas",
+  "dica": "partícula subatômica extremamente leve e neutra que interage fracamente com a matéria."
+},
+{
+  "plvr": "neuroplasticidade",
+  "tema": "neurociência",
+  "dica": "capacidade do cérebro de se reorganizar e formar novas conexões neurais ao longo do tempo."
+},
+{
+  "plvr": "antimatéria",
+  "tema": "física de partículas",
+  "dica": "forma de matéria composta por antipartículas, com propriedades opostas às partículas normais."
+},
+{
+  "plvr": "teoria das cordas",
+  "tema": "física teórica",
+  "dica": "modelo teórico que descreve as partículas fundamentais como vibrações em minúsculas cordas."
+}
+]
